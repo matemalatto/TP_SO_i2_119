@@ -9,3 +9,24 @@ b- Si, igual que en el punto anterior, pero esta vez en vez de hacer un merge al
 c- Alfa puede actualizar al de Beta, pero Gamma no pudo estar presente.
 
 d- Los datos no se deberían perder a menos que no se hayan guardado a través de un commit y un push.
+
+e- 
+Teira:
+git remote add origin https://github.com/matemalatto/TP_SO_i2_119
+git clone https://github.com/matemalatto/TP_SO_i2_119
+
+git add .
+git commit -m
+git push
+-----
+git fetch
+git pull
+git merge upstream/main
+git commit -m "Actualizacion fork"
+git push
+
+Malatto:
+git clone "https://github.com/matemalatto/TP_SO_i2_119.git
+git add .
+git commit -m" punto x"
+git push
