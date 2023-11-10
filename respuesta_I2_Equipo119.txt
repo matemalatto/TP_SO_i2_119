@@ -5,3 +5,7 @@ Agustin Teira
 a- Vinculando los 2 repositorios, el original y el fork, y haciendo un merge deloriginal al fork, para despues comittear y pushear los archivos actualizados
 
 b- Si, igual que en el punto anterior, pero esta vez en vez de hacer un merge al repo original, lo haces al fork de Gamma. O otra manera es que Gamma actualice el repo original con su fork, y a partir de ahi, alpha hace un pull al repo original con la actualizacion del fork de gamma
+
+c- Alfa puede actualizar al de Beta, pero Gamma no pudo estar presente.
+
+d- Los datos no se deberían perder a menos que no se hayan guardado a través de un commit y un push.
